@@ -3,3 +3,11 @@
 ################################################################################
 
 /src/FED/.vs/config
+/src/FED/.vs/FED/v15/Server/sqlite3
+/src/FED/.vs/FED/v15
+/src/FED/FED/bin
+/src/FED/FED/obj/Debug
+/src/FED/packages
+/.vs
+/src/FED/WebApplication1/bin
+/src/FED/WebApplication1/obj/Debug
