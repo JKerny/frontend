@@ -11,3 +11,4 @@
 /.vs
 /src/FED/WebApplication1/bin
 /src/FED/WebApplication1/obj/Debug
+/src/FED/node_modules

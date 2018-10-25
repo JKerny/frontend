@@ -102,8 +102,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\CSS\Footer.css" />
-    <Content Include="Assets\CSS\Main.css" />
     <Content Include="Assets\JS\Bar.js" />
     <Content Include="Assets\JS\foo.js" />
     <Content Include="Global.asax" />
@@ -120,6 +118,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
+    <Content Include="Assets\SCSS\main.scss" />
     <None Include="packages.config" />
     <Content Include="Views\Home\Index.cshtml" />
     <None Include="Web.Debug.config">
@@ -131,6 +130,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Assets\CSS\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
